@@ -1,0 +1,18 @@
+- name: Dr. Bang Wang
+  photo: profile.jpg
+  info: Professor of Biomedicine, China Pharmaceutical University
+  email: b.wangair@qq.com
+  github: https://github.com/bwangair
+  researchgate: https://www.researchgate.net/profile/Bang-Wang-3?ev=hdr_xprf
+  scholar: https://scholar.google.com/citations?hl=en&user=t9KOzT0AAAAJ&view_op=list_works&gmla=AH8HC4wHnDcUexlYFe_1Qe5MgeGv_SRetTyHZkkcGXTi4rBfQr6G-8DyEfWPYES6_ESltm94fmyNtTO6pZgVybRxDwyI9uOoCBCyjQ
+ # cv: cv/cv.pdf
+  # Change the items in "education" you have (up to 6)
+  education:
+    [
+      "(2022) Post. Genome Editing and Therapy, Karolinska Institutet",
+      "(2016) Ph.D. Molecular Biology and Biochemistry, University of Chinese Academy of Sciences",
+      "(2011) B.S.  Biotechnology, NorthWest Normal University",
+    ]
+
+  educationshort:
+    ["(2022) Post. Genome Editing and Therapy, KI", "(2016) Ph.D. Molecular Biology and Biochemistry, UCAS", "(2011) B.S. Biotechnology, NWNU"]

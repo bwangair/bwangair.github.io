@@ -1,0 +1,21 @@
+- name: Yingxiang Wu
+  photo: WYX.png
+  info: PhD candidate, 2025
+  email: 
+  narration: I am Yingxiang Wu, a fresh PhD student (2025) at China Pharmaceutical University. My research focuses on integrating computational analysis, data mining, and model—based approaches with experimental validation to develop innovative strategies for advancing molecular biotechnology and its applications. I aim to bridge computational and experimental perspectives to tackle complex biological challenges through interdisciplinary collaboration and creative problem—solving. Outside of research, I enjoy exploring new destinations and discovering dishes I have never tried before. To me, exploration is more than a hobby—it is a mindset that fuels both my scientific work and my life, whether I am pursuing a novel research idea, wandering through an unfamiliar city, or savoring a unique flavor. I look forward to working with collaborators to deepen our understanding of complex systems and contribute to meaningful discoveries.
+
+- name: Xirui Zheng
+  photo: ZXR.png
+  info: PhD candidate, 2025
+  email: 
+  narration: 
+
+- name: Coming soon
+  photo: rock.jpg
+  info: Postdoctor, 2025
+  email: 
+  narration: 
+
+- name: "This could be you!"
+  photo: welcome.png
+  info: Please see <a href="/vacancies/">openings</a> for more info.
