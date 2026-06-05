@@ -1,4 +1,3 @@
-=======
 source 'https://rubygems.org'
 
 # GitHub Pages 仅支持 Jekyll 3.9
@@ -11,4 +10,3 @@ gem "csv"
 gem "base64"
 gem "bigdecimal"
 gem "observer"
->>>>>>> 8badb5e3242aad1f41a05fe0a9c6a5302c6f0143
