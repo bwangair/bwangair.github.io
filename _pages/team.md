@@ -34,7 +34,7 @@ permalink: /team/
 
 {% endfor %}
 
-## Current Students, Postdocs, and RAs
+## Current Staff, Postdocs, and Students
 
 <div class='jumbotron'>
 {% assign number_printed = 0 %}

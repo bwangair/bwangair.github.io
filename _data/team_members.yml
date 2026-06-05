@@ -1,3 +1,9 @@
+- name: Dr. Aojun Ye
+  photo: YAJ.jpg
+  info: Postdoctor, 2025
+  email: 
+  narration: My name is Aojun Ye, and I obtained my Ph.D. from the Institute of Biophysics (IBP), Chinese Academy of Sciences, where my doctoral research focused on redox regulatory mechanisms underlying retinal regeneration using zebrafish as a model system. My work investigated how redox and inflammatory signaling pathways regulate Müller glial activation and neuronal regeneration following retinal injury. My long-term research interest lies in integrating retinal biology, targeted delivery systems, and translational therapeutic strategies to advance novel interventions for neuronal regeneration and retinal degenerative diseases.
+
 - name: Yingxiang Wu
   photo: WYX.png
   info: PhD candidate, 2025
@@ -10,11 +16,23 @@
   email: 
   narration: 
 
-- name: Coming soon
-  photo: rock.jpg
-  info: Postdoctor, 2025
+- name: Zihan Si
+  photo: SZH.jpg
+  info: PhD candidate, 2025
   email: 
-  narration: 
+  narration: I am Zihan Si, a Ph.D. candidate in the Wang Bang Research Group at China Pharmaceutical University now, focused on Clinical Pharmacy and Translational Medicine, with a specific focus on developing prodrugs of small-molecule candidates and advancing them toward clinical application.This translational work is supported by a multidisciplinary skill set that includes mass spectrometry analysis for DMPK studies, animal experimentation for efficacy and safety evaluation, and new drug screening platforms.
+
+- name: Rizheng Liu
+  photo: LRZ.jpg
+  info: MPhil candidate, 2025
+  email: 
+  narration: I am Rizheng Liu. I received my bachelor's degree from Inner Mongolia Medical University in Jining District, Ulanqab City. Currently, I am a graduate student majoring in Interdisciplinary Pharmacy at China Pharmaceutical University. I am generally an outgoing and optimistic person, although at certain stages I may feel a bit hesitant about expressing myself in public. What I am always certain about is my strong passion for scientific research. I truly enjoy exploring scientific questions, learning new methods, and continuously improving my research abilities, and I hope to grow into a rigorous and innovative researcher in the future.
+
+- name: Ziyi Tian
+  photo: TZY.png
+  info: MPhil candidate, 2025
+  email: 
+  narration: I am Ziyi Tian. I completed my undergraduate degree in Traditional Chinese Medicine at Beijing University of Chinese Medicine.And I am currently a first-year Master's student in Artificial Intelligence Pharmacy at China Pharmaceutical University. My research focuses on applying machine learning and deep neural networks to optimize mRNA codon usage, with the goal of improving translational efficiency and protein expression stability. My academic background spans both pharmaceutical science and computational analysis, providing me with a unique perspective on integrating AI methods with biological challenges. I am proficient in Python, R, and deep learning frameworks, and look forward to contributing to innovative research in intelligent pharmaceutical development.
 
 - name: "This could be you!"
   photo: welcome.png
