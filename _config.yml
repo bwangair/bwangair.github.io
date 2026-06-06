@@ -89,6 +89,9 @@ scholar:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor/bundle
+  - .bundle
+  - vendor
   - update_boostrap.sh
   - switch_theme.sh
   - tags
