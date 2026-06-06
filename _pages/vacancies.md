@@ -7,7 +7,7 @@ permalink: /vacancies/
 
 ## Vacancies
 
-<p align="left">>><span style="color:#EFEFDA;"><b>Postdoctoral Fellows (2-3 openings)</b></span><br/></p>
+<p align="left">>><span style="color:#EFEFDA;"><b>Postdoctoral Fellows (1-2 openings)</b></span><br/></p>
 <p style="text-align: justify;">
     <span style="color:#1976d2;">I. Research Directions</span><br/>
     1) Apply deep learning and protein language models (PLMs) for enzyme/protein mining, evolution, in silico screening, and de novo generation.<br/>
@@ -30,7 +30,7 @@ permalink: /vacancies/
     We provide research conditions of international standards, including a well-equipped working environment, state-of-the-art laboratory instruments, and a professional research ecosystem. The laboratory provides comprehensive support to postdoctoral researchers in applying for various funding programs to advance their careers.<br/>
 </p>
 
-<p align="left">>><span style="color:#EFEFDA;"><b>Research Assistants (1-2 openings)</b></span><br/></p>
+<p align="left">>><span style="color:#EFEFDA;"><b>Research Assistant (1 opening)</b></span><br/></p>
 <p style="text-align: justify;">
     <span style="color:#1976d2;">I. Roles and Responsibilities</span><br/>
     1) Perform assigned laboratory tasks and meet the established standards and requirements of the laboratory.<br/>
@@ -53,5 +53,5 @@ permalink: /vacancies/
     1) A complete curriculum vitae (CV) in Chinese or English: including key educational and professional background, research interests and focus, primary research skills and achievements, list of publications and awards (if applicable), etc.<br/>
     2) Full texts or summaries of representative research projects.<br/>
     3) Any additional materials that demonstrate research and professional capabilities (if applicable).<br/>
-    4) Please send the materials above along with a brief cover letter to b.wangair[AT]qq.com or b.wangair[AT]gmail.com entitled "Application for Postdoc/RA + Research interest" (change [AT] to @). Interested candidates will be contacted promptly.<br/>
+    4) Please send the materials above along with a brief cover letter to b.wangair[AT]qq.com or bang.wang[AT]cpu.edu.cn entitled "Application for Postdoc/RA + Research interest" (change [AT] to @). Interested candidates will be contacted promptly.<br/>
 </p>

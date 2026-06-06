@@ -18,40 +18,27 @@ permalink: /publications/
 <div class="jumbotron">
 ### Journal Articles (the latest 5 yrs)
 
-**2025**  
-- Wang, B., Zhang, Y., & Li, M. (2025). AI-enabled genome editing: opportunities and challenges. *Journal of Gene Therapy*, 12(3), 45-58.  
-- Chen, L., & Wang, B. (2025). Prime editing for treating monogenic diseases. *Cell Reports Medicine*, 6(2), 100412.
-
-**2024**  
-- Wang, B., Liu, S., & Zhou, J. (2024). CRISPR-based epigenetic editing in immune cells. *Molecular Therapy*, 32(1), 22-35.  
-- Wang, B., & Andersson, M. (2024). Base editing in hematopoietic stem cells. *Blood*, 143(5), 401-413.
-
-**2023**  
-- Wang, B. (2023). Delivery strategies for CRISPR-Cas systems. *Advanced Drug Delivery Reviews*, 190, 114520.
-
-**2022**  
-- Wang, B., et al. (2022). Off-target effects of prime editors. *Nature Biotechnology*, 40(6), 882-891.
-
-**2021**  
-- Wang, B., & Karlsson, R. (2021). Single-cell analysis of genome editing outcomes. *Genome Biology*, 22(1), 156.
-
-**2020**  
-- Wang, B., & Lundeberg, J. (2020). Multiplexed CRISPR screening. *Cell Systems*, 11(4), 345-358.
+- M Yu, L Ai, **B Wang** and *et al.* GenomePAM directs PAM characterization and engineering of CRISPR-Cas nucleases using mammalian genome repeats. *Nature Biomedical Engineering*, 2025, 10(2):231–244. [Cover story]
+- B Fang, P Qiu, C Xia and *et al.* Extracellular matrix scaffold crosslinked with vancomycin for multifunctional antibacterial bone infection therapy. *Biomaterials*, 2021, 268:120603. [**Co-corresponding**]
+- **B Wang**, X Lv, Y Wang and *et al.* CRISPR/Cas9-mediated mutagenesis at microhomologous regions of human mitochondrial genome. *Science China-Life Sciences*, 2021, 64(9):1463-1472.  
 
 </div>
 
 <div class="jumbotron">
 ### Conference Works (the latest 5 yrs)
 
-- Wang, B., et al. (2024). "In vivo base editing of the liver." In *Proceedings of the 12th Annual CRISPR Conference*, Boston, MA, pp. 45-46.  
-- Wang, B., & Zhang, Y. (2023). "Epigenome editing for immune modulation." In *International Symposium on Genome Editing*, Stockholm, Sweden, pp. 112-113.
+- **B Wang**, Y Cao, Z Jiang and *et al.* Safe and Efficient Editing of Novel CRISPR-Cas Ribonucleoprotein Complexes Delivered by Engineered Protein Delivery Vehicle. *American Society of Gene and Cell Therapy*, 2025, New Orleans, LA. [Oral talk]  
+- **B Wang**, Y Cao, M Yu and *et al.* A Catalogue of Novel Type II CRISPR Nucleases with Diverse PAM Preferences. *American Society of Gene and Cell Therapy*, 2024, Baltimore, MD.
+- **B Wang**, N WY Wong, M Yu and *et al.* Development of *De Novo* Mining Platform for Discovery and Identification of Novel Small Class II CRISPR Nucleases with Expanded PAM Preference. *American Society of Gene and Cell Therapy*, 2023, Los Angeles, CA.
+- Q Xia, **B Wang**, Z Zhou and *et al.* High-Throughput Screening Platform of Lipid Nanoparticles for *In Vivo* CRISPR/Cas Gene Editing. *American Society of Gene and Cell Therapy*, 2023, Los Angeles, CA.
+- **B Wang**, M Yu, Z Zheng. Sensitive One-step Discovery and Validation of CRISPR Off-targets Using EDITED-Seq. *Cold Spring Harbor Laboratory Conference*, 2022, New York, NY.
 
 </div>
 
 <div class="jumbotron">
 ### Preprints
 
-- Wang, B., Li, M., & Chen, L. (2025). "A novel Cas13 variant for RNA editing." *bioRxiv*, 2025.01.15.123456. [Link](https://www.biorxiv.org/content/10.1101/2025.01.15.123456v1)
+
 
 </div>
 

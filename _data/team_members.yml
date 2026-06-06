@@ -14,13 +14,13 @@
   photo: ZXR.png
   info: PhD candidate, 2025
   email: 
-  narration: 
+  narration: I am Xirui Zheng.
 
 - name: Zihan Si
   photo: SZH.jpg
   info: PhD candidate, 2025
   email: 
-  narration: I am Zihan Si, a Ph.D. candidate in the Wang Bang Research Group at China Pharmaceutical University now, focused on Clinical Pharmacy and Translational Medicine, with a specific focus on developing prodrugs of small-molecule candidates and advancing them toward clinical application.This translational work is supported by a multidisciplinary skill set that includes mass spectrometry analysis for DMPK studies, animal experimentation for efficacy and safety evaluation, and new drug screening platforms.
+  narration: I am Zihan Si, a Ph.D. candidate in the Wang Bang Research Group at China Pharmaceutical University now, focused on Clinical Pharmacy and Translational Medicine, with a specific focus on developing prodrugs of oligonucleotide candidates and advancing them toward clinical application. This translational work is supported by a multidisciplinary skill set that includes mass spectrometry analysis for DMPK studies, animal experimentation for efficacy and safety evaluation, and new drug screening platforms.
 
 - name: Rizheng Liu
   photo: LRZ.jpg
@@ -32,8 +32,10 @@
   photo: TZY.png
   info: MPhil candidate, 2025
   email: 
-  narration: I am Ziyi Tian. I completed my undergraduate degree in Traditional Chinese Medicine at Beijing University of Chinese Medicine.And I am currently a first-year Master's student in Artificial Intelligence Pharmacy at China Pharmaceutical University. My research focuses on applying machine learning and deep neural networks to optimize mRNA codon usage, with the goal of improving translational efficiency and protein expression stability. My academic background spans both pharmaceutical science and computational analysis, providing me with a unique perspective on integrating AI methods with biological challenges. I am proficient in Python, R, and deep learning frameworks, and look forward to contributing to innovative research in intelligent pharmaceutical development.
+  narration: I am Ziyi Tian. I completed my undergraduate degree in Traditional Chinese Medicine at Beijing University of Chinese Medicine. I am currently a first-year Master's student in Artificial Intelligence Pharmacy at China Pharmaceutical University. My research focuses on applying machine learning and deep neural networks to optimize mRNA codon usage, with the goal of improving translational efficiency and protein expression stability. My academic background spans both pharmaceutical science and computational analysis, providing me with a unique perspective on integrating AI methods with biological challenges. I am proficient in Python, R, and deep learning frameworks, and look forward to contributing to innovative research in intelligent pharmaceutical development.
 
 - name: "This could be you!"
   photo: welcome.png
   info: Please see <a href="/vacancies/">openings</a> for more info.
+  email: 
+  narration: We are always looking for talented and motivated individuals to join our team.
