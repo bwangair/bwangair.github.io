@@ -2,37 +2,85 @@
   photo: YAJ.jpg
   info: Postdoctor, 2025
   email: 
-  narration: My name is Aojun Ye, and I obtained my Ph.D. from the Institute of Biophysics (IBP), Chinese Academy of Sciences, where my doctoral research focused on redox regulatory mechanisms underlying retinal regeneration using zebrafish as a model system. My work investigated how redox and inflammatory signaling pathways regulate Müller glial activation and neuronal regeneration following retinal injury. My long-term research interest lies in integrating retinal biology, targeted delivery systems, and translational therapeutic strategies to advance novel interventions for neuronal regeneration and retinal degenerative diseases.
+  narration: "My name is Aojun Ye, and I obtained my Ph.D. from the Institute of Biophysics (IBP), Chinese Academy of Sciences, where my doctoral research focused on redox regulatory mechanisms underlying retinal regeneration using zebrafish as a model system. My work investigated how redox and inflammatory signaling pathways regulate Müller glial activation and neuronal regeneration following retinal injury. My long-term research interest lies in integrating retinal biology, targeted delivery systems, and translational therapeutic strategies to advance novel interventions for neuronal regeneration and retinal degenerative diseases."
+
+- name: Dr. Ran Duan
+  photo: DR.jpg
+  info: Postdoctor, 2026
+  email: 
+  narration: "My name is Ran Duan, a newly graduated Ph.D. in Pharmacology at China Pharmaceutical University, where I focused on identifying and characterizing novel therapeutic targets in liver metabolic diseases and hepatocellular carcinoma (HCC). My research interest lies in the mechanistic crosstalk among lipid metabolic reprogramming, tumor immunity, and cell fate regulation—particularly ferroptosis and pyroptosis—in disease pathogenesis and progression. My long-term goal is to bridge fundamental metabolic insights with translational drug development, advancing multimodal therapeutics—including small molecules, PROTACs, and RNA-based modalities—from target validation through preclinical evaluation. To this end, I am experienced in independent preclinical pharmacology, encompassing PK/PD and toxicological assessment. Looking forward, I aim to extend my mechanistic exploration into epigenetic regulation and metabolomic flux analysis, integrating multi-omics approaches with functional pharmacology to dissect how metabolic and epigenetic circuits orchestrate disease phenotypes and drive disease evolution."
+
+- name: Han Yang
+  photo: YH.jpg
+  info: Research Assistant, 2026
+  email: 
+  narration: "I am Han Yang. I graduated from Henan Agricultural University with a bachelor's degree in Bioengineering (Biological Preparation) and obtained my master's degree from the Chinese Academy of Agricultural Sciences in Biochemistry and Molecular Biology. My master's research focused on plant molecular biology and genetic engineering, specifically studying Medicago truncatula. Through experimental methods such as map-based cloning, gene editing, genetic hybridization, protein interaction and scanning electron microscopy, I analyzed the mechanism of inflorescence-lateral branch transformation in Medicago truncatula. I am deeply interested in the clinical application of gene editing and hope to immerse myself in this field, following Professor Wang and other members of the research team, and gain valuable insights."
 
 - name: Yingxiang Wu
   photo: WYX.png
   info: PhD candidate, 2025
   email: 
-  narration: I am Yingxiang Wu, a fresh PhD student (2025) at China Pharmaceutical University. My research focuses on integrating computational analysis, data mining, and model—based approaches with experimental validation to develop innovative strategies for advancing molecular biotechnology and its applications. I aim to bridge computational and experimental perspectives to tackle complex biological challenges through interdisciplinary collaboration and creative problem—solving. Outside of research, I enjoy exploring new destinations and discovering dishes I have never tried before. To me, exploration is more than a hobby—it is a mindset that fuels both my scientific work and my life, whether I am pursuing a novel research idea, wandering through an unfamiliar city, or savoring a unique flavor. I look forward to working with collaborators to deepen our understanding of complex systems and contribute to meaningful discoveries.
+  narration: "I am Yingxiang Wu, a fresh PhD student (2025) at China Pharmaceutical University. My research focuses on integrating computational analysis, data mining, and model—based approaches with experimental validation to develop innovative strategies for advancing molecular biotechnology and its applications. I aim to bridge computational and experimental perspectives to tackle complex biological challenges through interdisciplinary collaboration and creative problem—solving. Outside of research, I enjoy exploring new destinations and discovering dishes I have never tried before. To me, exploration is more than a hobby—it is a mindset that fuels both my scientific work and my life, whether I am pursuing a novel research idea, wandering through an unfamiliar city, or savoring a unique flavor. I look forward to working with collaborators to deepen our understanding of complex systems and contribute to meaningful discoveries."
 
 - name: Xirui Zheng
   photo: ZXR.png
   info: PhD candidate, 2025
   email: 
-  narration: I am Xirui Zheng.
+  narration: "I'm Xirui Zheng, a PhD candidate (2025) of Xinjiang Medical University, joint with China Pharmaceutical University. I have graduated from my master's degree in clinical veterinary medicine, and I cherish this transformation and want to take on challenges. My research interest is in lipid nanoparticle delivery systems. I am dedicated to exploring new drugs and treatments. In my spare time, I like to produce electronic music, write lyrics, and keep fit. Music and sports bring me a sense of accomplishment, whether in the field of art or scientific research. I wish to exchange research ideas with colleagues in the future and make more breakthroughs in cancer treatments together."
 
 - name: Zihan Si
   photo: SZH.jpg
   info: PhD candidate, 2025
   email: 
-  narration: I am Zihan Si, a Ph.D. candidate in the Wang Bang Research Group at China Pharmaceutical University now, focused on Clinical Pharmacy and Translational Medicine, with a specific focus on developing prodrugs of oligonucleotide candidates and advancing them toward clinical application. This translational work is supported by a multidisciplinary skill set that includes mass spectrometry analysis for DMPK studies, animal experimentation for efficacy and safety evaluation, and new drug screening platforms.
+  narration: "I am Zihan Si, a Ph.D. candidate in the Wang Bang Research Group at China Pharmaceutical University now, focused on Clinical Pharmacy and Translational Medicine, with a specific focus on developing prodrugs of oligonucleotide candidates and advancing them toward clinical application. This translational work is supported by a multidisciplinary skill set that includes mass spectrometry analysis for DMPK studies, animal experimentation for efficacy and safety evaluation, and new drug screening platforms."
 
 - name: Rizheng Liu
   photo: LRZ.jpg
   info: MPhil candidate, 2025
   email: 
-  narration: I am Rizheng Liu. I received my bachelor's degree from Inner Mongolia Medical University in Jining District, Ulanqab City. Currently, I am a graduate student majoring in Interdisciplinary Pharmacy at China Pharmaceutical University. I am generally an outgoing and optimistic person, although at certain stages I may feel a bit hesitant about expressing myself in public. What I am always certain about is my strong passion for scientific research. I truly enjoy exploring scientific questions, learning new methods, and continuously improving my research abilities, and I hope to grow into a rigorous and innovative researcher in the future.
+  narration: "I am Rizheng Liu. I received my bachelor's degree from Inner Mongolia Medical University in Jining District, Ulanqab City. Currently, I am a graduate student majoring in Interdisciplinary Pharmacy at China Pharmaceutical University. I am generally an outgoing and optimistic person, although at certain stages I may feel a bit hesitant about expressing myself in public. What I am always certain about is my strong passion for scientific research. I truly enjoy exploring scientific questions, learning new methods, and continuously improving my research abilities, and I hope to grow into a rigorous and innovative researcher in the future."
 
 - name: Ziyi Tian
   photo: TZY.png
   info: MPhil candidate, 2025
   email: 
-  narration: I am Ziyi Tian. I completed my undergraduate degree in Traditional Chinese Medicine at Beijing University of Chinese Medicine. I am currently a first-year Master's student in Artificial Intelligence Pharmacy at China Pharmaceutical University. My research focuses on applying machine learning and deep neural networks to optimize mRNA codon usage, with the goal of improving translational efficiency and protein expression stability. My academic background spans both pharmaceutical science and computational analysis, providing me with a unique perspective on integrating AI methods with biological challenges. I am proficient in Python, R, and deep learning frameworks, and look forward to contributing to innovative research in intelligent pharmaceutical development.
+  narration: "I am Ziyi Tian. I completed my undergraduate degree in Traditional Chinese Medicine at Beijing University of Chinese Medicine. I am currently a first-year Master's student in Artificial Intelligence Pharmacy at China Pharmaceutical University. My research focuses on applying machine learning and deep neural networks to optimize mRNA codon usage, with the goal of improving translational efficiency and protein expression stability. My academic background spans both pharmaceutical science and computational analysis, providing me with a unique perspective on integrating AI methods with biological challenges. I am proficient in Python, R, and deep learning frameworks, and look forward to contributing to innovative research in intelligent pharmaceutical development."
+
+- name: Zhisen Yang
+  photo: YZS.jpg
+  info: PhD candidate, 2026
+  email: 
+  narration: "My name is Zhisen Yang, and I am a newly enrolled PhD student in the Wang Bang Research Group at China Pharmaceutical University, starting in 2026. My research focuses on CRISPR-based gene editing and high-throughput screening, as well as immunometabolic regulation. I am particularly experienced in preclinical pharmacological efficacy evaluation, including animal modeling, drug intervention, phenotypic assessment, and molecular validation. Driven by a deep curiosity about the life sciences, I am passionate about decoding the complex language of biology through careful experiments and rigorous analysis. Outside the laboratory, I enjoy exploring the world and recording meaningful moments with my camera. To me, photography and scientific research share the same spirit: careful observation, constant questioning, and the discovery of hidden patterns in the world around us."
+
+- name: Minghao Li
+  photo: LMH.jpg
+  info: PhD candidate, 2026
+  email: 
+  narration: "I am Minghao Li."
+
+- name: Han He
+  photo: HH.jpg
+  info: MPhil candidate, 2026
+  email: 
+  narration: "My name is Han He. I am a student at China Pharmaceutical University, majoring in Biology and Pharmaceuticals. In my free time, I enjoy reading, listening to music, and playing badminton. I am also curious about new technologies and like learning how things work. These hobbies help me stay relaxed and focused in my studies. I am currently involved in a research project focusing on bioinformatic analysis of epigenetic gene editing. This experience has given me basic training in data analysis and a deeper understanding of how computational tools can be applied to gene regulation research. In the future, I hope to continue growing in the pharmaceutical field and contribute to meaningful research in drug development and biomedical science."
+
+- name: Zihan Guo
+  photo: GZH.jpg
+  info: MPhil candidate, 2026
+  email: 
+  narration: "I am Zihan Guo, currently a Master’s student specializing in Artificial Intelligence Pharmacy at China Pharmaceutical University (2026 cohort). I obtained my Bachelor’s degree in Artificial Intelligence from Wuhan Textile University, with relevant background covering deep learning, computer vision and computational methodologies. Drawing on my computational expertise, I strive to translate artificial intelligence algorithms into practical pharmaceutical research tools. My research lies at the interdisciplinary intersection of artificial intelligence and pharmaceutical sciences. I intend to leverage my academic training to address core challenges in intelligent drug discovery, generate valuable research insights and advance innovative pharmaceutical studies."
+
+- name: Qian Wu
+  photo: WQ.jpg
+  info: MPhil candidate, 2026
+  email: 
+  narration: "I'm Wu Qian. Glad to join the team! I love metaphysics, stock trading and murder mystery games. I’m eager to learn from all of you and enjoy our time working together!"
+
+- name: Zhipeng Cong
+  photo: CZP.jpg
+  info: MPhil candidate, 2026
+  email: 
+  narration: "My name is Zhipeng Cong. I obtained my bachelor’s degree in Pharmacy from Southwest University. Now I pursue postgraduate studies under the guidance of Professor Bang Wang at China Pharmaceutical University. My research interest lies in artificial intelligence pharmacy and computer-aided drug design. I am skilled in conventional biological experiments such as Western Blotting and immunofluorescence assay, and adept at data analysis using GraphPad Prism. I intend to integrate computational modeling with pharmacological experiments to investigate bioactive natural products. I look forward to academic exchanges and collaborative research with all members in the group."
 
 - name: "This could be you!"
   photo: welcome.png

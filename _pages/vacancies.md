@@ -7,11 +7,11 @@ permalink: /vacancies/
 
 ## Vacancies
 
-<p align="left">>><span style="color:#EFEFDA;"><b>Postdoctoral Fellows (1-2 openings)</b></span><br/></p>
+<p align="left">>><span style="color:#EFEFDA;"><b>Assistant/Postdoctoral Fellows (1-2 openings)</b></span><br/></p>
 <p style="text-align: justify;">
     <span style="color:#1976d2;">I. Research Directions</span><br/>
-    1) Apply deep learning and protein language models (PLMs) for enzyme/protein mining, evolution, in silico screening, and de novo generation.<br/>
-    2) Establish an AI-enabled design-build-test-learn (DBTL) loop for the engineering of precise genome editors.<br/>
+    1) Apply deep learning and protein language models (PLMs) for enzyme/protein mining, evolution, in silico engineering, and de novo generation.<br/>
+    2) Translational studies of retinal and neuromuscular degenerative diseases, integrating basic target discoveries with gene and cell therapeutic development for unmet medical needs. <br/>
     3) High-throughput CRISPR screening for targets to enhance immunotherapeutic cells, such as CAR-T/-NK or TCR-T cells.<br/>
 
     <span style="color:#1976d2;">II. Requirements</span><br/>
@@ -23,10 +23,10 @@ permalink: /vacancies/
     1) Lead the proposed projects independently under the PI's supervision.<br/>
     2) Perform the dry-/wet-lab experiments routinely and update the progress on a weekly basis.<br/>
     3) Summarize, visualize, and interpret the data and draft the manuscript on demand.<br/>
-    4) Collaborate with team members or external partners; apply for postdoctoral funding programs.<br/>
+    4) Collaborate with team members or external partners; apply for governmental or postdoctoral funding programs.<br/>
 
     <span style="color:#1976d2;">IV. Package</span><br/>
-    We offer a competitive compensation package combined with an annual bonus based on performance and project milestones. The talent holds the possibility of promotion to a faculty position after completing the postdoctoral projects, contingent upon meeting the University policy requirements. (Please see http://rsc.cpu.edu.cn/4819/list.htm for detailed policies)<br/>
+    We offer a competitive compensation package combined with an annual bonus based on performance and project milestones. The talent holds the possibility of promotion to a faculty position after completing the probationary projects, contingent upon meeting the University policy requirements. (Please see http://rsc.cpu.edu.cn/4819/list.htm for detailed policies)<br/>
     We provide research conditions of international standards, including a well-equipped working environment, state-of-the-art laboratory instruments, and a professional research ecosystem. The laboratory provides comprehensive support to postdoctoral researchers in applying for various funding programs to advance their careers.<br/>
 </p>
 
@@ -53,5 +53,5 @@ permalink: /vacancies/
     1) A complete curriculum vitae (CV) in Chinese or English: including key educational and professional background, research interests and focus, primary research skills and achievements, list of publications and awards (if applicable), etc.<br/>
     2) Full texts or summaries of representative research projects.<br/>
     3) Any additional materials that demonstrate research and professional capabilities (if applicable).<br/>
-    4) Please send the materials above along with a brief cover letter to b.wangair[AT]qq.com or bang.wang[AT]cpu.edu.cn entitled "Application for Postdoc/RA + Research interest" (change [AT] to @). Interested candidates will be contacted promptly.<br/>
+    4) Please send the materials above along with a brief cover letter to bang.wang[AT]cpu.edu.cn entitled "Application for Assistant/Postdoc/RA + Research interest" (change [AT] to @). Interested candidates will be contacted promptly.<br/>
 </p>
